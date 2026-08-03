@@ -1,0 +1,16 @@
+{
+  "name": "HexHound - LilyGo T-Dongle S3",
+  "version": "0.4.2",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "../firmware/hexhound-t-dongle-s3.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

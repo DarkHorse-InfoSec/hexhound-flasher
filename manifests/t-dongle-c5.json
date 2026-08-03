@@ -1,0 +1,16 @@
+{
+  "name": "HexHound - LilyGo T-Dongle C5",
+  "version": "0.4.2",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-C5",
+      "parts": [
+        {
+          "path": "../firmware/hexhound-t-dongle-c5.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

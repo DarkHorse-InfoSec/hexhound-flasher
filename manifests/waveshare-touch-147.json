@@ -1,0 +1,16 @@
+{
+  "name": "HexHound - Waveshare Touch 1.47",
+  "version": "0.4.2",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "../firmware/hexhound-waveshare-touch-147.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

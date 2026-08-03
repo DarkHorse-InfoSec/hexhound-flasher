@@ -1,0 +1,16 @@
+{
+  "name": "HexHound - Waveshare 1.47B",
+  "version": "0.4.2",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "../firmware/hexhound-waveshare-147b.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
