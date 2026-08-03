@@ -12,6 +12,7 @@ sees. Built by [DarkHorse Information Security](https://darkhorseinfosec.com).
 This repository holds only the flasher page and the prebuilt firmware images.
 The firmware source lives in a separate repository.
 
+<!-- BOARDS:BEGIN -->
 ## Firmware v0.4.2
 
 | Board | Chip | Size | SHA256 (first 16) |
@@ -23,6 +24,7 @@ The firmware source lives in a separate repository.
 | Waveshare Touch 1.47 | `ESP32-S3` | 1408 KB | `efc9cb757865bb33` |
 | LilyGo T-Dongle C5 | `ESP32-C5` | 1910 KB | `9f3e4083bc62055a` |
 | Waveshare 1.28 Round | `ESP32-S3` | 1593 KB | `0d06e06247d25642` |
+<!-- BOARDS:END -->
 
 Full hashes are in [`boards.json`](boards.json). These are merged images that
 flash at offset `0x0`.
