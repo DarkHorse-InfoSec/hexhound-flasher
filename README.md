@@ -13,17 +13,17 @@ This repository holds only the flasher page and the prebuilt firmware images.
 The firmware source lives in a separate repository.
 
 <!-- BOARDS:BEGIN -->
-## Firmware v0.4.2
+## Firmware v0.4.3
 
 | Board | Chip | Size | SHA256 (first 16) |
 |---|---|---|---|
-| LilyGo T-Dongle S3 | `ESP32-S3` | 1259 KB | `06c5a06d4c5baa0a` |
-| LilyGo T-Dongle S3 (USB HID) | `ESP32-S3` | 1308 KB | `50283f22d5cb403e` |
-| LilyGo T-Display S3 | `ESP32-S3` | 1361 KB | `abce66353110b2ec` |
-| Waveshare 1.47B | `ESP32-S3` | 1395 KB | `4c2e0020efa124d2` |
-| Waveshare Touch 1.47 | `ESP32-S3` | 1408 KB | `efc9cb757865bb33` |
-| LilyGo T-Dongle C5 | `ESP32-C5` | 1910 KB | `9f3e4083bc62055a` |
-| Waveshare 1.28 Round | `ESP32-S3` | 1593 KB | `0d06e06247d25642` |
+| LilyGo T-Dongle S3 | `ESP32-S3` | 1259 KB | `795224bc7bc2006a` |
+| LilyGo T-Dongle S3 (USB HID) | `ESP32-S3` | 1309 KB | `797e52a025dbcc72` |
+| LilyGo T-Display S3 | `ESP32-S3` | 1369 KB | `9bb1c2e0131daaa6` |
+| Waveshare 1.47B | `ESP32-S3` | 1396 KB | `883a27bb0925beb0` |
+| Waveshare Touch 1.47 | `ESP32-S3` | 1409 KB | `31fb034742bdb29d` |
+| LilyGo T-Dongle C5 | `ESP32-C5` | 1911 KB | `7b6e234b4f41fac5` |
+| Waveshare 1.28 Round | `ESP32-S3` | 1593 KB | `13449e17ebd2ff6b` |
 <!-- BOARDS:END -->
 
 Full hashes are in [`boards.json`](boards.json). These are merged images that

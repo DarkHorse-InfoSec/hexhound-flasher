@@ -1,6 +1,6 @@
 {
   "name": "HexHound - LilyGo T-Dongle S3 (USB HID)",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "new_install_prompt_erase": true,
   "builds": [
     {
