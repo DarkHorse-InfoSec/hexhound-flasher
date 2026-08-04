@@ -1,61 +1,61 @@
 {
-  "version": "0.4.3",
+  "version": "0.4.4",
   "boards": [
     {
       "id": "t-dongle-s3",
       "name": "LilyGo T-Dongle S3",
       "chip": "ESP32-S3",
       "bin": "hexhound-t-dongle-s3.bin",
-      "size": 1289664,
-      "sha256": "795224bc7bc2006a36afe10d6582a9eacb5fd42f89097ec9aac843855fb1196b"
+      "size": 1290160,
+      "sha256": "8a468fd28579f5435a13ff31463d574de5e6043c7887f3ae08e88693686dbb91"
     },
     {
       "id": "t-dongle-s3-hid",
       "name": "LilyGo T-Dongle S3 (USB HID)",
       "chip": "ESP32-S3",
       "bin": "hexhound-t-dongle-s3-hid.bin",
-      "size": 1339920,
-      "sha256": "797e52a025dbcc723b77e80a8f9a75b4fce31d121772bdc2d6ed4240e9d04238"
+      "size": 1340464,
+      "sha256": "15a100ab6a30dd23aef446bceddc3268d499d7f21783b3635b478eae82e3ac8e"
     },
     {
       "id": "t-display-s3",
       "name": "LilyGo T-Display S3",
       "chip": "ESP32-S3",
       "bin": "hexhound-t-display-s3.bin",
-      "size": 1402144,
-      "sha256": "9bb1c2e0131daaa64b20e31e9992135b7e250f3ddcb10a5eb7f364ea459af162"
+      "size": 1403856,
+      "sha256": "1064cbe17443fd1e28a440b44a7ad7f9f12a3a5e1b695b3dfade36e8b6b289b2"
     },
     {
       "id": "waveshare-147b",
       "name": "Waveshare 1.47B",
       "chip": "ESP32-S3",
       "bin": "hexhound-waveshare-147b.bin",
-      "size": 1429280,
-      "sha256": "883a27bb0925beb06889ee26b6442f4c18c164e9225e7e79700ad86598bb2a92"
+      "size": 1429760,
+      "sha256": "0cc2840b2878bb9c0a0ad0cf44dd3e3872582164f25ad0d25e325f7eccf44691"
     },
     {
       "id": "waveshare-touch-147",
       "name": "Waveshare Touch 1.47",
       "chip": "ESP32-S3",
       "bin": "hexhound-waveshare-touch-147.bin",
-      "size": 1442736,
-      "sha256": "31fb034742bdb29d27effbfc258975eeac51d2fa3d2ce37a9a057662ba5ae5d1"
+      "size": 1443296,
+      "sha256": "e4bb418f9cfbb2a7575eedf03fb977ab03b4db8b2b51aafc071fbe2d83244ad9"
     },
     {
       "id": "t-dongle-c5",
       "name": "LilyGo T-Dongle C5",
       "chip": "ESP32-C5",
       "bin": "hexhound-t-dongle-c5.bin",
-      "size": 1956640,
-      "sha256": "7b6e234b4f41fac5b074b51301b720f144ffc0a11aacf1ce55625b51f2538e67"
+      "size": 1957136,
+      "sha256": "fce9a8f3872b89a4c500f64b9203505e17fd64484344a42a06400d5cb14cba69"
     },
     {
       "id": "waveshare-128-round",
       "name": "Waveshare 1.28 Round",
       "chip": "ESP32-S3",
       "bin": "hexhound-waveshare-128-round.bin",
-      "size": 1631408,
-      "sha256": "13449e17ebd2ff6b66b8702948a724068bbcf70988bba456b6a71bf9d5e1edc6"
+      "size": 1631936,
+      "sha256": "ad0be4abe05ba1379a8d60d21f8372736a11dc31667ad6d0abe65573eaebb99f"
     }
   ]
 }
